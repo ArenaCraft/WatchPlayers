@@ -1,0 +1,4 @@
+name: WatchPlayers
+main: com.giuseppeluzzi.arenacraft.bungee.watchplayers.Main
+author: xPeppe
+depends: [Yamler]
